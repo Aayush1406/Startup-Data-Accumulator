@@ -1,0 +1,6 @@
+@CHARSET "ISO-8859-1";
+.div-1
+{
+	overflow-x: hidden; /* Hide horizontal scrollbar */
+  overflow-y: scroll; /* Add vertical scrollbar */
+}
